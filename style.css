@@ -1,0 +1,37 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background: #fff;
+}
+
+#box {
+    margin: 2em;
+    padding: 2em;
+}
+
+
+/*
+ * ul --> change | into | horizontal | navigation | links
+ */
+        ul.horiznavlist { }
+
+        /* float selected element and all other links */
+        ul.horiznavlist li {
+            display : block;
+            float : left;
+            padding : 0px 6px 0px 6px;
+            border-right : 1px solid #333;
+            background : none;
+        }
+
+        /* remove left padding from first item in a list */
+        ul.horiznavlist li:first-child {
+            padding-left : 0px !important;
+        }
+
+        /* remove right padding from last item in a list */
+        ul.horiznavlist li:last-child {
+            padding-right : 0px !important;
+            border-right : 0px !important;
+        }
