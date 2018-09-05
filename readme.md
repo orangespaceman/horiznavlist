@@ -2,8 +2,8 @@
 
 ##Post
 
- - [http://petegoodman.com/labs/horiznavlist/](http://petegoodman.com/labs/horiznavlist/)
+ - [https://f90.co.uk/labs/horiznavlist/](https://f90.co.uk/labs/horiznavlist/)
 
 ## Example
 
- - [http://thegingerbloke.github.io/horiznavlist](http://thegingerbloke.github.io/horiznavlist)
+ - [http://orangespaceman.github.io/horiznavlist](http://orangespaceman.github.io/horiznavlist)
